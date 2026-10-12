@@ -372,6 +372,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Adobe Podcast Enhance](https://podcast.adobe.com/enhance) — Remove background noise and enhance voice quality instantly. `#free`
 - [Krisp](https://krisp.ai) — Real-time noise cancellation for calls and recordings. `#free`
 - [Auphonic](https://auphonic.com) — Automated audio post-production and leveling for podcasts. `#free`
+- [QuietTake Noise Remover](https://noiseremover.site/) — Browser-local RNNoise speech cleanup with original/cleaned playback and WAV export, without signup or audio upload; ≤50 MB and ≤5 min/file. `#free`
 
 ---
 
