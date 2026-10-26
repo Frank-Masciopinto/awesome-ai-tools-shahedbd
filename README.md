@@ -287,6 +287,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [ClipDrop](https://clipdrop.co) — Remove backgrounds, upscale, relight, and generate images. Powered by Stability AI. `#free`
 - [Remove.bg](https://remove.bg) — Instant, accurate background removal in one click. `#free`
 - [Photoroom](https://photoroom.com) — Professional product and portrait photos generated from your phone. `#free`
+- [ClearCrowds](https://www.clearcrowds.com) — AI photo cleanup editor for removing crowds, objects, shadows, glare, glasses, and product-photo distractions with focused presets.
 - [HairWow](https://www.gohairwow.com) — AI hairstyle, hair color, and beard style try-on from one photo. `#free`
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
