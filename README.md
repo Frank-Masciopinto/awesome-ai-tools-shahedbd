@@ -129,17 +129,15 @@ The core large language models powering the AI ecosystem.
 
 | Model | Provider | Context Window | Key Strengths |
 |---|---|---|---|
-| [GPT-4o](https://platform.openai.com/docs/models) | OpenAI | 128K | Multimodal (text/image/audio/video), fastest response |
-| [GPT-4.1](https://platform.openai.com/docs/models) | OpenAI | 1M | Long context, coding, instruction following |
-| [o3 / o4-mini](https://openai.com/o3) | OpenAI | 200K | Advanced reasoning, math, science |
-| [Claude 3.7 Sonnet](https://www.anthropic.com/claude) | Anthropic | 200K | Best for coding, writing, nuanced reasoning |
-| [Claude Opus 4](https://www.anthropic.com/claude) | Anthropic | 200K | Highest capability, constitutional AI safety |
-| [Gemini 2.5 Pro](https://deepmind.google/technologies/gemini/) | Google | **2M** | Largest context window, video/audio analysis |
-| [Gemini 2.5 Flash](https://deepmind.google/technologies/gemini/) | Google | 1M | Fast, cost-efficient multimodal |
-| [Grok 3](https://x.ai/grok) | xAI | 131K | Real-time X/Twitter data, STEM reasoning |
-| [DeepSeek-V3](https://www.deepseek.com/) | DeepSeek | 128K | Open weights, frontier performance, cost-efficient |
-| [DeepSeek-R1](https://www.deepseek.com/) | DeepSeek | 128K | Chain-of-thought reasoning, math & coding `#opensource` |
-| [Mistral Large 2](https://mistral.ai/) | Mistral AI | 128K | European, multilingual, strong function calling |
+| [GPT-6 Astra](https://developers.openai.com/api/docs/models) | OpenAI | 1.05M | Current flagship — frontier reasoning, coding, multimodal |
+| [GPT-6.1 Sol / GPT-6 Luna](https://developers.openai.com/api/docs/models) | OpenAI | 1.05M | Near-flagship at lower cost; Luna tuned for high-volume workloads |
+| [Claude Opus 5.5](https://www.anthropic.com/claude/opus) | Anthropic | 1M | Frontier capability at 40% lower cost than Opus 5 (Sep 2026) |
+| [Claude Fable 5.1](https://claude.com/product/overview) | Anthropic | 1M | Premium frontier line (Mythos family); Anthropic's capability ceiling |
+| [Gemini 4 Argon](https://deepmind.google/technologies/gemini/) | Google | 1M | Next-generation flagship with 1M-token output; strong long-context reasoning |
+| [Gemini 3.1 Pro](https://deepmind.google/technologies/gemini/) | Google | 1M | Previous-gen flagship, still a strong multimodal value |
+| [Grok 4.7](https://docs.x.ai/docs/models) | xAI | 500K | Most capable Grok yet; real-time X/Twitter data, strong coding |
+| [DeepSeek-V4.1 Flash / V4 Pro](https://api-docs.deepseek.com/) | DeepSeek | 1M | Frontier-class at a fraction of the price; vision support on Flash |
+| [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0) | Mistral AI | 1M | European flagship, 1.05T-param MoE, open weights (Oct 2026) `#opensource` |
 
 ### Open-Weight Models
 
