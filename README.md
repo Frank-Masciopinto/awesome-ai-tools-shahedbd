@@ -479,6 +479,7 @@ Monitor, debug, and improve your LLM applications in production.
 | [Arize AI](https://arize.com) | Production ML & LLM monitoring | No |
 | [Helicone](https://helicone.ai) | LLM proxy with logging & caching `#opensource` | Yes |
 | [Portkey](https://portkey.ai) | LLM gateway with fallbacks & routing | No |
+| [Bifrost](https://github.com/maximhq/bifrost) | Open-source AI gateway with multi-provider routing, failover, caching, observability, and MCP support `#opensource` | Yes |
 | [Braintrust](https://braintrust.dev) | Evals, prompts, and dataset management | No |
 | [Maxim AI](https://getmaxim.ai) | End-to-end LLM evaluation platform | No |
 | [Opik](https://comet.com/opik) | Open-source LLM evaluation `#opensource` | Yes |
